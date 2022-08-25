@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF5ECE64bcCaeB6D5669B1c0882f70494CCB0956C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf5ece64bccaeb6d5669b1c0882f70494ccb0956c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "Food Style Club Prova",
+  "SYMBOL": "FSCp",
+  "MAX_SUPPLY": 5500,
+  "WEI_COST": 2500000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/food-style-prova",
+  "SHOW_BACKGROUND": true
+}
